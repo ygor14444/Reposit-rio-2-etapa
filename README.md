@@ -27,6 +27,5 @@ Como rodar o projeto na sua máquina
 Se quiser testar o fluxo localmente, siga estes passos simples:
 
 ### 1. Baixar o Arquivo.zip
- [Clique aqui para baixar o projeto em formato ZIP]
- (https://github.com/ygor14444/Repositorio-2-etapa/archive/refs/heads/main.zip)
+ [Clique aqui para baixar o projeto em formato ZIP](https://github.com/ygor14444/Repositorio-2-etapa/archive/refs/heads/main.zip)
 
