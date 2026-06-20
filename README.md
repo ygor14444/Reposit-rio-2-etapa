@@ -22,3 +22,11 @@ Para construir essa automação, utilizei as seguintes tecnologias:
 * **Delay de Segurança (Anti-ban):** Pensando em boas práticas de envio e para evitar bloqueios no WhatsApp, adicionei um intervalo inteligente de 3 segundos entre o disparo de uma mensagem e outra.
 
 ---
+Como rodar o projeto na sua máquina
+
+Se quiser testar o fluxo localmente, siga estes passos simples:
+
+### 1. Clonar o repositório
+```bash
+git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+cd NOME_DO_REPOSITORIO
