@@ -28,3 +28,9 @@ Se quiser testar o fluxo localmente, siga estes passos simples:
 
 ### 1. Baixar o Arquivo.zip
  [Clique aqui para baixar o projeto em formato ZIP](https://github.com/ygor14444/Repositorio-2-etapa/archive/refs/heads/main.zip)
+
+
+### 2. Clonar o repositório
+```bash
+git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+cd NOME_DO_REPOSITORIO
