@@ -1,12 +1,10 @@
-# Desafio Técnico - Automação de Mensagens (B2BFlow)
-
-E aí! Este projeto foi desenvolvido por mim como parte do desafio técnico para a vaga de Estágio em Desenvolvimento na B2BFlow. 
+# 2° ETAPA PROCESSO ESTÁGIO - b2bflow
 
 A ideia principal aqui é integrar um banco de dados (Supabase) com uma API de WhatsApp (Z-API) usando Python, criando um fluxo automatizado que busca contatos cadastrados e envia uma mensagem personalizada para cada um deles.
 
 ---
 
-## 🛠️ O que foi usado no projeto?
+##  O que foi usado no projeto?
 
 Para construir essa automação, utilizei as seguintes tecnologias:
 * **Python 3.13+** como linguagem base do script.
